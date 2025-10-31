@@ -83,7 +83,7 @@
   <li><strong>Comprehensive Analytics:</strong> Usage metrics, performance monitoring, and query pattern analysis</li>
 </ul>
 
-![Uploading image.png…]()
+<img width="950" height="637" alt="image" src="https://github.com/user-attachments/assets/518c274f-b353-41fe-b9e0-96b7dd97a121" />
 
 
 <h2>Installation</h2>
